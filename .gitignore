@@ -1,0 +1,10 @@
+src/*.suo
+src/*.vcproj
+src/*.vcxproj
+src/*.vcproj.user
+src/*.vcxproj.user
+src/*.vcproj.filters
+src/*.vcxproj.filters
+src//Debug
+src//Release
+
