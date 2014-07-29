@@ -1,0 +1,12 @@
+[settings]
+caption=多个flash合成
+winrect.left=400;
+winrect.right=800;
+winrect.top=300;
+winrect.bottom=600;
+
+[movies]
+M0=flame.swf
+M3=snowflake.swf
+M4=leave.swf
+M5=littlegirl.swf

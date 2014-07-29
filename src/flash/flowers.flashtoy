@@ -1,0 +1,26 @@
+[settings]
+Caption=œ ª®
+PlayMode=4
+MaxMovieCount=16
+UpdateInterval=100
+PlayTime=0
+WinStyle=268435456
+WinExStyle=128
+WMode=2
+BkColor=0
+Quality=1
+ScaleMode=3
+AlignMode=0
+Menu=1
+PlayNow=1
+Loop=1
+DragMove=1
+DisableRButtonDown=1
+WinRect.left=200
+WinRect.top=200
+WinRect.right=600
+WinRect.Bottom=500
+MovieKeyFmt=M%d
+
+[Movies]
+M0=flowers.swf
